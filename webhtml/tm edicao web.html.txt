@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html long="pt-pt"></html>
+<head>
+    <meta charset="viewport"
+    content="width=device-width"
+    inicial="scale=1,0">
+    <title>DOCUMENT</title>
+    
+        <h1> Olá mundo!</h1>
+        <hr>
+        <p> Este é o primeiro exnplo do html</p>
+        <p> de muitos que vou fazer</p>
+        <h1> cabeçalho1</h1>
+        <h2> cabeçalho2</h2>
+        <h3> cabeçalho3</h3>
+        <h4> cabeçalho4</h4>
+        <h5> cabeçalho5</h5>
+        <h6> cabeçalho6</h6>
+        <s>Hoje é um dia especial: Salmon</s> ESGOTADO<br>
+        <span style="text-decoration:line-through;">Hoje é um dia especial:
+          Salmon</span> ESGOTADO
+
+    </body>
+</head>
